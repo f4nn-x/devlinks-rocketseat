@@ -26,8 +26,7 @@
 
 body {
   background-image: var(--bg-url);
-  height: 100vh;
-  width: 100vw;
+  height: 100%;
   background-repeat: no-repeat;
   background-position: top center;
   background-size: cover;
